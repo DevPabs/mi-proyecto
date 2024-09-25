@@ -6,4 +6,5 @@ function saludo() {
 
 function mensajePersonalizado() {
     echo "Saludos, lunáticos.";
+    echo "Saludos, marcianos.";
 }
