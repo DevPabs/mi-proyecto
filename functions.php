@@ -7,3 +7,7 @@ function saludo() {
 function mensajePersonalizado() {
     echo "Saludos, marcianos";
 }
+
+function despedida() {
+    echo "Sayonara, baby";
+}
