@@ -11,4 +11,5 @@ function mensajePersonalizado() {
 
 function despedida() {
     echo "Sayonara, baby";
+    echo "さようなら、ベイビー";
 }
